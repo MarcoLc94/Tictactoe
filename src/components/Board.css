@@ -1,0 +1,23 @@
+.status {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 20px;
+    font-weight: 800;
+    font-size: 20px;
+    transition: 0.2s;
+}
+
+button {
+ margin: 20px;
+ padding: 10px 20px 10px 20px;
+ border: none;
+ border-radius: 5px 5px 5px 5px;
+ background-color: rgb(224, 39, 39);
+ color: #fafafa;
+ font-weight: 500;
+}
+
+button:hover {
+    transform: scale(1.1);
+    filter: drop-shadow(0px 0px 10px red);
+    transition: 0.3s;
+}

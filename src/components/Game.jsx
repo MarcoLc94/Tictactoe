@@ -1,6 +1,7 @@
 import Board from "./Board";
 import "../App.css"
 
+
 function Game() {
     return (
       <div className="game">

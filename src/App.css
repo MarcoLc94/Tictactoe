@@ -1,0 +1,6 @@
+.cat {
+    background: url("./cat.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}

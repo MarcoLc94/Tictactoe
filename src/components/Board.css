@@ -4,6 +4,7 @@
     font-weight: 800;
     font-size: 20px;
     transition: 0.2s;
+    color: #fafafa;
 }
 
 button {
@@ -13,7 +14,7 @@ button {
  border-radius: 5px 5px 5px 5px;
  background-color: rgb(224, 39, 39);
  color: #fafafa;
- font-weight: 500;
+ font-weight: 600;
 }
 
 button:hover {
